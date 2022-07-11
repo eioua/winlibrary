@@ -12,6 +12,8 @@ Windows 11 is an operating system developed by Microsoft Corporation (Microsoft)
 [download ULR  ED2K]
 
               ed2k://|file|zh-cn_windows_11_business_editions_updated_june_2022_x64_dvd_0b165f6d.iso|5726638080|5BCD33031B86AC693B2CE3C6CF11CB90                                                                                                          
+  
+  
   [download ULR  BT]
   
                magnet:?xt=urn:btih:f869202a016c0e3e2fd5e41ffb010696ff5d2c02&dn=zh-cn_windows_11_business_editions_updated_june_2022_x64_dvd_0b165f6d.iso&xl=5726638080
