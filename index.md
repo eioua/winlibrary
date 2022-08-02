@@ -9,18 +9,16 @@
 Windows 11 is an operating system developed by Microsoft Corporation (Microsoft) and used in devices such as computers and tablets .Issued on June 24, 2021 , October 5, 2021  .Windows 11 provides many innovative features, adds a new version of the start menu and input logic, etc , supports a hybrid work environment that is in line with the times, and focuses on improving end-user productivity in a flexible and changeable experience .10As of June 15, 2022, the official version of Windows 11 has been updated to version 22000.739 ; the preview version has been updated to version 25140  .11On May 19, 2022, Microsoft announced that Windows 11 is now available for broad deployment, meaning that any PC with Windows 11 minimum configuration requirements should be able to install the system
 
 
-[download ULR  ED2K]
+[download ULR  ED2K] Windows 11 (consumer editions), version 21H2 (updated October 2021) (x64) - DVD (Chinese-Simplified)
 
               ed2k://|file|zh-cn_windows_11_business_editions_updated_june_2022_x64_dvd_0b165f6d.iso|5726638080|5BCD33031B86AC693B2CE3C6CF11CB90                                                                                                          
   
   
-  [download ULR  BT]
+  [download ULR  BT] Windows 11 (consumer editions), version 21H2 (updated October 2021) (x64) - DVD (Chinese-Simplified)
   
                magnet:?xt=urn:btih:f869202a016c0e3e2fd5e41ffb010696ff5d2c02&dn=zh-cn_windows_11_business_editions_updated_june_2022_x64_dvd_0b165f6d.iso&xl=5726638080
                
-Tip: After copying, please go to Thunder to download
   
-you downloaded Windows 11 (business editions) (updated June 2022) (x64) - DVD (Chinese-Simplified)
 
 
 ### Windows10
@@ -29,11 +27,15 @@ Windows 10 is a cross-platform operating system developed by Microsoft, which is
 
 
 
-[download ULR  ED2K] Old Windows10  1507
+[download ULR  ED2K] Windows 10 (Multiple Editions) (x64) - DVD (Chinese-Simplified)
 
                ed2k://|file|cn_windows_10_multiple_editions_x64_dvd_6848463.iso|4303300608|94FD861E82458005A9CA8E617379856A|/
 
+[download ULR  ED2K] Windows 10 (consumer editions), version 21H2 (x64) - DVD (Chinese-Simplified)
 
+               ed2k://%7Cfile%7Czh-cn_windows_10_consumer_editions_version_21h2_x64_dvd_cf28838e.iso%7C5859952640%7C8B3EDE1AEEEAFAB777F6DFB46960ECE2%7C/
+
+Tip: After copying, please go to Thunder to download
 
 *All systems are x64
 
